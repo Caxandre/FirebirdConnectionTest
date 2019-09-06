@@ -19,8 +19,8 @@ Send a POST request to one of the two routes, each of one corresponding to a dif
 
 POST Example -> http://localhost:3333/firebirdDriver or http://localhost:3333/firebird
 
-Windows host: example path to firebird file	-> "database": C:/firebird/DB/exemple.fdb" 
-Linux host: example path to firebird file -> "database": "/opt/firebird/DB/exemple.fdb"
+Windows host: example path to firebird file	-> "database": C:/firebird/DB/exemple.fdb".
+Linux host: example path to firebird file -> "database": "/opt/firebird/DB/exemple.fdb".
 
 JSON Example ->
 
